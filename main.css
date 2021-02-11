@@ -1,0 +1,33 @@
+/*
+  (this is a CSS comment)
+  Mark Lin
+  IntroCS pd6 sec10
+  HW05 -- Stuylin'
+  2021-02-11
+*/
+
+/*
+structure of a CSS ruleset:
+
+SELECTOR { 0 or more DECLARATIONS }
+
+where each declaration is of the form
+
+PROPERTY : VALUE;
+
+ */
+
+/* this will style all h1 elements with color red */
+h1 {
+    color: red
+}
+
+/* this will style all h2 elements with color blue */
+h2 {
+    color: blue
+}
+
+/* this will make the page background black */
+body {
+    background-color: gray; /* bc dark mode 4 teh youngs */
+}
