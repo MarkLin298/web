@@ -30,4 +30,24 @@ h2 {
 /* this will make the page background black */
 body {
     background-color: gray; /* bc dark mode 4 teh youngs */
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
 }
