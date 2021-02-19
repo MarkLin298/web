@@ -33,21 +33,21 @@ body {
     width: 1200px;
     margin: 0 auto;
     padding: 0 20px 20px 20px;
-    border: 5px solid black;
+    border: 5px solid black;  /* this will add a border */
 }
 
-h1 {
+h1 {  /* this will center the h1 */
   font-size: 60px;
   text-align: center;
 }
 
-p, li {
+p, li {       /* this will change the font of the paragraph */
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
 }
 
-img {
+img { /* this will center the image */
   display: block;
   margin: 0 auto;
 }
